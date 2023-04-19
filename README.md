@@ -49,6 +49,9 @@ An analysis of the data established the following key observations:
 
 3. The analysis also established that movies that scored high rating were also part of the most popular ones.
 Therefore, development of content should focus on the quality of content produced.
+#### For more detailed information, find the project:
+
+[project presentation](./presentation.pdf) for the project presentation
 
 ### The End!
 
